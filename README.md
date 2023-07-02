@@ -1,2 +1,2 @@
 # ipdm
-The Inter Planetery Data Model
+The Interplanetary Data Model
